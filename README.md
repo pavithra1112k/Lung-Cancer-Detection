@@ -39,7 +39,7 @@ A deep learning-based project to classify the nodules in lung CT scans into Norm
 
 - Transfer Learning (ResNet50, Xception) → High precision, robust classification
 
-### ## 📄 Publication  
+### 📄 Publication  
 
 - [Lung Cancer Detection Using Advanced CNN and Transfer Learning — IRJET](https://www.irjet.net/archives/V9/i4/IRJET-V9I4426.pdf)
 
