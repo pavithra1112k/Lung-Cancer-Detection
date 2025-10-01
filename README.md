@@ -1,6 +1,6 @@
 ## 🫁 Lung Cancer Detection using CNN & Transfer Learning
 
-A deep learning-based project to classify lung CT scans into Normal, Benign, or Malignant using Convolutional Neural Networks (CNNs) and transfer learning (ResNet50 & Xception). 
+A deep learning-based project to classify the nodules in lung CT scans into Normal, Benign, or Malignant to detect cancer using Convolutional Neural Networks (CNNs) and transfer learning (ResNet50 & Xception). 
 
 ### 🚀 Key Features
 
